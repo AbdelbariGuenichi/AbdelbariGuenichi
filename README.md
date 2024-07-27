@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to <span style="color: #4A90E2;">[Your Name]</span>'s profile!
+  Welcome to <span style="color: #4A90E2;">Abdelbary</span>'s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -15,7 +15,7 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-```javascript
+javascript
 const aboutMe = {
   name: "[Your Name]",
   role: "IT Student | Web Developer",
@@ -26,7 +26,7 @@ const aboutMe = {
   hobbies: ["Coding", "Open Source", "Tech Blogging"],
   funFact: "I debug code faster than I debug my life problems!"
 };
-```
+
 
 ---
 
@@ -55,37 +55,16 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
----
 
-<h2>🚀 Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/your-github-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&theme=react" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/your-github-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=react" alt="Project 2"/>
-  </a>
-</div>
-
----
 
 <h2>📫 How to reach me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/abdelbari-ben-kamel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abdelbariguenichi@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
