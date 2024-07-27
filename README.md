@@ -11,24 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
 
----
-
-<h2>🧑‍💻 About Me</h2>
-
-javascript
-const aboutMe = {
-  name: "[Your Name]",
-  role: "IT Student | Web Developer",
-  education: "Bachelor's in [Your Degree], [Your University]",
-  location: "[Your City], [Your Country]",
-  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "SQL", "PHP", "React"],
-  currentlyLearning: ["Advanced React", "Node.js", "Express", "GraphQL"],
-  hobbies: ["Coding", "Open Source", "Tech Blogging"],
-  funFact: "I debug code faster than I debug my life problems!"
-};
-
-
----
 
 <h2>🛠️ Languages and Tools</h2>
 
